@@ -1,0 +1,13 @@
+{
+  "name": "todo-md-generator",
+  "version": "1.0.0",
+  "description": "Generate md backlog",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "check:src": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "Even Stensberg <evenstensberg@gmail.com>",
+  "license": "MIT"
+}
